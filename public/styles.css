@@ -1,0 +1,185 @@
+img {
+    width:63%;
+    display:block;
+    margin: -51% auto 0;
+    opacity: 0.67;
+}
+
+section {
+    width: 63%;
+    display: block;
+    margin: 0 auto;
+}
+
+body{
+    font-family: georgia;
+    margin-bottom: 200px;
+}
+
+header {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 32px;
+    color: #067F93;
+    width: 63%;
+    display: block;
+    margin: 0 auto;
+}
+
+h1:hover {
+    color: #DDDBDC;
+}
+
+a {
+    color: #067F93;
+    font-style:italic;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav ul {
+    display:block;
+    width: 63%;
+    margin: 0 auto;
+}
+
+nav li{
+    color: #808080;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px;
+    list-style: none;
+    float: left;
+    padding: 2px 27px 30px 0;
+}
+
+h2 {
+    font-family: monospace;
+    font-weight: lighter;
+    font-size: 2.15em;
+    color:#4b4343;
+    margin-top: 24px;
+    letter-spacing: 12px;
+    clear: both;
+}
+
+h3 {
+    font-size: 1.25em;
+    font-weight: bold;
+    font-style: italic;
+    color: #010327;
+    margin: -3px 0 20px;
+}
+
+h4 {
+    font-size: 1.15em;
+    font-weight: bold;
+    font-style: italic;
+    color: #067F93;
+    margin-top: -15px;
+    margin-bottom: 8px;
+}
+
+section ul {
+    font-family: tahoma;
+    font-size: 1.15em;
+    color: #4b4343;
+    padding-bottom: 4px;
+    font-weight: lighter;
+    margin: 3px 0 15px;
+}
+p {
+    font-family: tahoma;
+    font-size: 1.15em;
+    color: #4b4343;
+    font-weight: lighter;
+}
+
+
+.stripe {
+    background: linear-gradient( to bottom, #067F93, #010327);
+    height: 17px;
+    width: 660px;
+    margin-top: 15px;
+}
+
+
+ul {
+    letter-spacing: .18px;
+}
+
+a:hover {
+    color: #DDDBDC;
+}
+
+.box {
+    height: 37px;
+    width: 700px;
+    margin-top: 15px;
+    margin-left: -19px;
+    background: linear-gradient( to bottom, #067F93, #010327);
+}
+
+.highlights{
+    color:#067F93;
+}
+
+.main-skill{
+    font-size: 1em;
+    font-weight: bold;
+    font-style: italic;
+    color: #067F93;
+    list-style: none;
+}
+.main-skill-sub{
+    list-style: none;
+}
+
+
+.list-one{
+    float:left;
+    width: 22%;
+    margin: 0 1%;
+
+}
+.list-two{
+    float:left;
+    width: 22%;
+    margin: 0 1%;
+}
+.list-three{
+    float:left;
+    width: 22%;
+    margin: 0 1%;
+}
+.list-four{
+    float:left;
+    width: 22%;
+    margin: 0 1%;
+}
+.list-five{
+    float:left;
+    width: 22%;
+    margin: 0 1%;
+    clear:both;
+
+}
+.list-six{
+    float:left;
+    width: 22%;
+    margin: 0 1%;
+}
+.list-seven{
+    float:left;
+    width: 22%;
+    margin: 0 1%;
+}
+.list-eight{
+    float:left;
+    width: 22%;
+    margin: 0 1%;
+}
+
+.experience{
+    clear:both;
+}
